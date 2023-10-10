@@ -1,1 +1,4 @@
-# Hello
+int main()
+{
+printf("hello world");
+}
